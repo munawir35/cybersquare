@@ -13,10 +13,7 @@
             border: 3px;
             border-style: solid;
             margin-top: 100px;
-            padding-bottom: 20px;
-            padding-left: 20px;
-            padding-right: 20px;
-            padding-top: 20px;
+            padding: 20px;
             border-color: slateblue;
             border-radius: 5%;
         }
@@ -24,17 +21,26 @@
         .jj {
             color: slateblue;
         }
+        
+        .kk {
+            background-color: powderblue;
+        }
     </style>
 
 </head>
 
-<body class="mm" align="center">
-    <h1 class="jj"><u> ABOUT</u></h1>
-    <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex numquam, error, molestiae sed deserunt molestias dolor enim fugiat culpa, blanditiis temporibus quasi a praesentium quam expedita voluptatem amet voluptates! Reprehenderit.</div>
-    <br>
-    <br>
-    <br>
-    <a href="http://127.0.0.1:8000/cybersquare">BACK</a>
+
+
+<body align="center">
+    <div class="kk mm">
+        <h1 class="jj"><u> ABOUT</u></h1>
+        <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex numquam, error, molestiae sed deserunt molestias dolor enim fugiat culpa, blanditiis temporibus quasi a praesentium quam expedita voluptatem amet voluptates! Reprehenderit.</div>
+        <br>
+        <br>
+        <br>
+        <a href="http://127.0.0.1:8000/cybersquare">BACK</a>
+    </div>
 </body>
+
 
 </html>
