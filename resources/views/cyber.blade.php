@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-    .ll {
+.ll {
             margin-left: 300px;
             margin-right: 300px;
             margin-top: 150px;
@@ -18,12 +18,10 @@
             padding: 20px;
         }
     }
-    .nn {
-        color: tomato;
-    }
-    .aa {
-        color: yellowgreen;
-    }
+}
+.aa {
+    color: yellow;
+}
     </style>
 </head>
 
